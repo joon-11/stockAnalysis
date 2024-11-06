@@ -19,6 +19,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: Colors.blueAccent,
         elevatedButtonTheme: ElevatedButtonThemeData(
@@ -41,4 +42,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-

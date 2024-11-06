@@ -17,7 +17,7 @@ class _IndexScreenState extends State<IndexScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
+        appBar: AppBar(
         title: const Text('주식 분석', style: TextStyle(color: Colors.white)),
         backgroundColor: Colors.blueAccent,
       ),
