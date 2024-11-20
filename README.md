@@ -26,4 +26,9 @@ Backend : Flask
 
 <br />
 
-## 🤔 Preview
+## 🤩 Preview
+
+<img width="318" alt="스크린샷 2024-11-20 오전 9 32 39" src="https://github.com/user-attachments/assets/ac87d4cc-915f-4081-ae4c-d446ac916c91">
+<img width="322" alt="스크린샷 2024-11-20 오전 9 50 01" src="https://github.com/user-attachments/assets/8bfeb84f-b3bc-4f0b-b9c0-93d6e7ae3601">
+<img width="323" alt="스크린샷 2024-11-20 오전 9 50 27" src="https://github.com/user-attachments/assets/7acaa5ba-c846-48e7-adbe-3ff04fbc7b2b">
+
